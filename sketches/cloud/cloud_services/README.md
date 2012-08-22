@@ -27,7 +27,8 @@ which will automagically install all its dependencies as well.
 Perl in /usr/bin/perl and the VMWare interface programs (`vifs` and
 `vmware-cmd`) are required.  You also need a VMWare ESXi server.
 
-TODO: add ESXi setup instructions.
+See the VMware website for documents related to the ESXi/vSphere 5: http://pubs.vmware.com/vsphere-50/index.jsp
+You can also register on the VMware website to download free trial versions of ESXi/vSphere 5 and related software.
 
 ## DESCRIPTION
 
